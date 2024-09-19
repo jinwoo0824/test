@@ -103,6 +103,7 @@
 ## 🗂홈페이지
 --page
 
-![page1.png](All-powerful/page1.png)
+![page1.png](All-powerful/page1.png)		
 
 ![page2.png](All-powerful/page2.png)	
+
